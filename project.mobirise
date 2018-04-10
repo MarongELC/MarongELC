@@ -1636,14 +1636,28 @@
                 "thumb": "@PROJECT_PATH@/assets/images/aboriginalrespect-2000x2888-800x1155.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/images-219x167.png",
-                "thumb": "@PROJECT_PATH@/assets/images/images-219x167-219x167.png",
+                "image": "@PROJECT_PATH@/assets/images/nuts-391x519.png",
+                "thumb": "@PROJECT_PATH@/assets/images/nuts-391x519-391x519.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/balanced-poster-660x973.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/balanced-poster-660x973-660x973.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/kindergarten-memory-book-and-portfolio-21187-264x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kindergarten-memory-book-and-portfolio-21187-264x350-264x350.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
