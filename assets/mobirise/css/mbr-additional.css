@@ -240,10 +240,7 @@
   font-size: 16px;
 }
 #menu-j.mbr-navbar--stuck .mbr-navbar__section {
-  background: #1abc9c;
-}
-#menu-j .mbr-navbar__section {
-  background: #1abc9c;
+  background: #000000;
 }
 #menu-j .mbr-navbar__hamburger {
   color: #000000;
