@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page5.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1611,8 +1611,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/images-219x167.png",
-                "thumb": "@PROJECT_PATH@/assets/images/images-219x167-219x167.png",
+                "image": "@PROJECT_PATH@/assets/images/images-2-219x167.png",
+                "thumb": "@PROJECT_PATH@/assets/images/images-2-219x167-214x161.png",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -1625,25 +1625,25 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/images-219x167.png",
-                "thumb": "@PROJECT_PATH@/assets/images/images-219x167-219x167.png",
+                "image": "@PROJECT_PATH@/assets/images/magiclunchbox-833x588.png",
+                "thumb": "@PROJECT_PATH@/assets/images/magiclunchbox-833x588-800x565.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/aboriginalrespect-2000x2888.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aboriginalrespect-2000x2888-800x1155.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/images-219x167.png",
                 "thumb": "@PROJECT_PATH@/assets/images/images-219x167-219x167.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
