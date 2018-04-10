@@ -392,7 +392,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "24",
+            "imageSize": "20",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
