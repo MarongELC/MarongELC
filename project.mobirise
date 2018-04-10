@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -632,14 +632,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "MARCH 2018",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -700,14 +700,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "FEBRUARY 2018",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -768,14 +768,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "NOVEMBER/DECEMBER 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -819,7 +819,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/october2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -836,14 +836,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "OCTOBER 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -904,14 +904,15 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "SEPTEMBER 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503",
+              "text-align": "left"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -922,7 +923,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1c"
         },
@@ -955,7 +956,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/august2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -972,14 +973,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "AUGUST 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1023,7 +1024,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/july2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1040,14 +1041,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "JULY 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1091,7 +1092,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/june2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1108,14 +1109,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "JUNE 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1159,7 +1160,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/may2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1176,150 +1177,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "MAY 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1g"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "10",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#faaf40",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1h"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "10",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#faaf40",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1363,7 +1228,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/april2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1380,14 +1245,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "APRIL 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1431,7 +1296,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mar2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1448,14 +1313,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "MARCH 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1499,7 +1364,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/september2017-1400x1867.jpg",
+              "src": "@PROJECT_PATH@/assets/images/feb2017-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1516,14 +1381,14 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "title": "FEBRUABY 2017",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#7c0503"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
