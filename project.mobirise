@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2389,13 +2389,14 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "19px",
-              "color": "#28324e"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-header .mbr-header__text I": {
-              "color": "#553982"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -2421,7 +2422,7 @@
             "overlayOpacity": 0.2
           },
           "title": "<i>Marong Preschool FAQs\n</i>",
-          "text": "<p>We really value…….\n</p><p>Independence, resilience and risk taking for children. We spend lots of time outdoors and outside of the kindergarten environment. We have strong ties to the school and make use of their yard every week.\n</p><p><br></p><p>Educators strive to ……..\n</p><p>Develop strong relationships with families, children and the wider community. Ensure all children’s needs and interests are catered for.</p><p><br></p><p>\n</p><p>Our Educational Program is shared with families in many ways, Such as ........</p><p>* Emailed/ printed reflection every week\n</p><p>* Newsletters\n</p><p><br></p><p>Our program, including routines, is organised in ways that maximise opportunities for each child’s learning. A normal day at our preschool usually runs like this……\n</p><p>Most of the days children can choose to be indoors across the centre i.e. both rooms are open to all children while they are in operation. We have a progressive fruit snack in the morning, lunch and afternoon snack (long days )are eaten as a group.</p><p><br></p><p>\n</p><p>The expertise of families is recognised and they share in decision making about their child’s learning and wellbeing, this is occurs in the following ways .........</p><p>* Developing goals for each child in consultation with families\n</p><p>* Inclusion of parents, ideas, skills and resources with the program\n</p><p><br></p><p>Each child’s learning and development is assessed as part of an ongoing cycle of planning, documenting and evaluation, we share this with families and seek their involvement by .........</p><p>* Portfolios\n</p><p>* Conversations, notes, emails regarding what their child is interested in and what they might like to do next\n</p><p><br></p><p>We build relationships and engage with the local community in the following ways .........</p><p>* We encourage families and the community to be involved by coming into our centre, through incursions, visitors and volunteers\n</p><p>* We make use of the school yard every week\n</p><p>* Families have opportunity to be involved in our service by coming into our centre during sessions, working bees and special events such as Mother’s Day and Father’s Night..</p><p><br></p>",
+          "text": "<p><b>We really value…….\n</b></p><p><b>Independence, resilience and risk taking for children. We spend lots of time outdoors and outside of the kindergarten environment. We have strong ties to the school and make use of their yard every week.\n</b></p><p><br></p><p><b>Educators strive to ……..\n</b></p><p><b>Develop strong relationships with families, children and the wider community. Ensure all children’s needs and interests are catered for.</b></p><p><br></p><p>\n</p><p><b>Our Educational Program is shared with families in many ways, Such as ........</b></p><p><b>* Emailed/ printed reflection every week\n</b></p><p><b>* Newsletters\n</b></p><p><b><br></b></p><p><b>Our program, including routines, is organised in ways that maximise opportunities for each child’s learning. A normal day at our preschool usually runs like this……\n</b></p><p><b>Most of the days children can choose to be indoors across the centre i.e. both rooms are open to all children while they are in operation. We have a progressive fruit snack in the morning, lunch and afternoon snack (long days )are eaten as a group.</b></p><p><b><br></b></p><p>\n</p><p><b>The expertise of families is recognised and they share in decision making about their child’s learning and wellbeing, this is occurs in the following ways .........</b></p><p><b>* Developing goals for each child in consultation with families\n</b></p><p><b>* Inclusion of parents, ideas, skills and resources with the program\n</b></p><p><b><br></b></p><p><b>Each child’s learning and development is assessed as part of an ongoing cycle of planning, documenting and evaluation, we share this with families and seek their involvement by .........</b></p><p><b>* Portfolios\n</b></p><p><b>* Conversations, notes, emails regarding what their child is interested in and what they might like to do next\n</b></p><p><b><br></b></p><p><b>We build relationships and engage with the local community in the following ways .........</b></p><p><b>* We encourage families and the community to be involved by coming into our centre, through incursions, visitors and volunteers\n</b></p><p><b>* We make use of the school yard every week\n</b></p><p><b>* Families have opportunity to be involved in our service by coming into our centre during sessions, working bees and special events such as Mother’s Day and Father’s Night..</b></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"

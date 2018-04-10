@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -411,12 +410,13 @@
   color: #fff;
 }
 #content5-l .mbr-article P {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 19px;
-  color: #28324e;
+  color: #000000;
+  text-align: left;
 }
 #content5-l .mbr-header .mbr-header__text I {
-  color: #553982;
+  color: #000000;
 }
 #contacts1-k STRONG {
   color: #ffffff;
