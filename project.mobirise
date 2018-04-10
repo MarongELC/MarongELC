@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -437,7 +437,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "48px",
@@ -450,7 +450,7 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -549,7 +549,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "16",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -590,7 +590,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -659,7 +659,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -728,7 +728,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -797,7 +797,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -866,7 +866,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -935,7 +935,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -1004,7 +1004,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#0c0225",
+              "color": "#2969b0",
               "text-align": "center",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
