@@ -96,7 +96,7 @@
   color: #000000;
 }
 #header4-s P {
-  color: #0c0225;
+  color: #7c0503;
   font-size: 24px;
   font-family: 'Oxygen', sans-serif;
 }
@@ -104,6 +104,9 @@
   color: #0c0225;
   font-size: 60px;
   font-family: 'Oxygen', sans-serif;
+}
+#header4-s I {
+  color: #7c0503;
 }
 #msg-box4-u .mbr-header__text {
   color: #7c0503;
