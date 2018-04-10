@@ -1545,7 +1545,7 @@
             "noGutter": false,
             "showText": false,
             "showBullets": false,
-            "bgColor": "#1abc9c",
+            "bgColor": "#7ac673",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/frontentrance-600x448.jpg",
