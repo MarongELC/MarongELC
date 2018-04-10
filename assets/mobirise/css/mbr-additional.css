@@ -86,7 +86,7 @@
 }
 
 #msg-box4-1n .mbr-header__text {
-  color: #7c0503;
+  color: #000000;
   text-align: center;
   font-family: 'Oxygen', sans-serif;
   font-size: 60px;
@@ -98,7 +98,7 @@
   color: #ffffff;
 }
 #msg-box4-1n .mbr-article P {
-  color: #7c0503;
+  color: #000000;
   text-align: center;
   font-size: 21px;
 }
