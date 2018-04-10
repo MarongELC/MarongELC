@@ -83,6 +83,33 @@
   color: #000000;
 }
 
+
+
+
+
+
+
+
+
+
+#msg-box4-1u .mbr-header__text {
+  color: #0c0225;
+  font-family: 'Merriweather', serif;
+  font-size: 48px;
+  text-align: center;
+}
+#msg-box4-1u .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1u .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1u .mbr-article P {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 19px;
+}
 #menu-b .mbr-brand__name {
   font-size: 16px;
 }
@@ -97,6 +124,90 @@
 }
 #footer1-c P {
   color: #000000;
+}
+#msg-box4-1o .mbr-header__text {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+#msg-box4-1o .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1o .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1p .mbr-header__text {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+#msg-box4-1p .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1p .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1q .mbr-header__text {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+#msg-box4-1q .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1q .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1r .mbr-header__text {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+#msg-box4-1r .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1r .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1s .mbr-header__text {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+#msg-box4-1s .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1s .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1v .mbr-header__text {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+#msg-box4-1v .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1v .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1t .mbr-header__text {
+  color: #0c0225;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+}
+#msg-box4-1t .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1t .mbr-article {
+  color: #ffffff;
 }
 #contacts1-g STRONG {
   color: #ffffff;
