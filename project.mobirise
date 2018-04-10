@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.7.0",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -494,6 +494,83 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "25",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/newsletter-image-505x576.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NEWSLETTERS",
+          "text": "<p>Each month Marong ELC parent committee members produce a newsletter that is sent to parents and also to advertisers.&nbsp;\n</p><p>It is a great way for parents to keep up to date with what is going on at the Kinder, and what is going on behind the scenes as well. .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#7c0503",
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "60px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#7c0503",
+              "text-align": "center",
+              "font-size": "21px"
+            }
+          },
+          "headerAlign": "center",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1n"
+        },
+        {
           "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
@@ -540,57 +617,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-d"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "images/bg.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f7da64",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<i>Newsletters</i><br><br>",
-          "text": "<b>Each month Marong ELC parent committee members produce a newsletter that is sent to parents and also to advertisers.&nbsp;<br>It is a great way for parents to keep up to date with what is going on at the Kinder, and what is going on behind the scenes as well.&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-s",
-          "_styles": {
-            "P": {
-              "color": "#7c0503",
-              "font-size": "24px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "H1": {
-              "color": "#0c0225",
-              "font-size": "60px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "I": {
-              "color": "#b8312f",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "72px"
-            }
-          }
         },
         {
           "_inherit": "msg-box5",
@@ -1583,11 +1609,39 @@
                 "active": false
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/images-219x167.png",
+                "thumb": "@PROJECT_PATH@/assets/images/images-219x167-219x167.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/59eda17cb1094e151660de4f7e1e9cc5-1-1200x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/59eda17cb1094e151660de4f7e1e9cc5-1-1200x1200-800x582.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/images-219x167.png",
+                "thumb": "@PROJECT_PATH@/assets/images/images-219x167-219x167.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/aboriginalrespect-2000x2888.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aboriginalrespect-2000x2888-800x1155.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/images-219x167.png",
+                "thumb": "@PROJECT_PATH@/assets/images/images-219x167-219x167.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
