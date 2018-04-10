@@ -1,18 +1,19 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#7c0503"
+        "#7c0503",
+        "#0c0225"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 26,
+    "uniqCompNum": 29,
     "versionPublish": "4.7.0",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -535,6 +536,119 @@
           ],
           "_name": "menu",
           "_anchor": "menu-d"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<i>Newsletters</i><br><br>",
+          "text": "Each month Marong ELC parent committee members produce a newsletter that is sent to parents and also to advertisers.&nbsp;<br>It is a great way to parents to keep to keep upto date with what is going on at the Kinder, and what is going on behind the scenes as well.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-s",
+          "_styles": {
+            "P": {
+              "color": "#0c0225",
+              "font-size": "24px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "H1": {
+              "color": "#0c0225",
+              "font-size": "60px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": false,
+            "bgColor": "#fac51c",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/feb2018-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/feb2018-2000x2667-800x1067.jpg",
+                "alt": "https://drive.google.com/open?id=19_vYgg01hi8PSOOCzlN6jpAuqfbD6Nca",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "images/slide2.jpg",
+                "thumb": "images/slide2-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "thumb": "images/slide3-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide4.jpg",
+                "thumb": "images/slide4-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide5.jpg",
+                "thumb": "images/slide5-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide6.jpg",
+                "thumb": "images/slide6-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide8.jpg",
+                "thumb": "images/slide8-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-q"
         },
         {
           "_params": {
