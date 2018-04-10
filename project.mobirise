@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -167,7 +167,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#3d8eb9",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -189,7 +189,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -199,6 +199,9 @@
           "_styles": {
             "STRONG": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         }
@@ -324,7 +327,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#3d8eb9",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -346,7 +349,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -356,6 +359,9 @@
           "_styles": {
             "STRONG": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         }
@@ -374,11 +380,9 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#1abc9c"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#000000"
             }
@@ -451,7 +455,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#3d8eb9",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -473,7 +477,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -483,6 +487,9 @@
           "_styles": {
             "STRONG": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         }
@@ -1445,7 +1452,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#3d8eb9",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1467,7 +1474,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1477,6 +1484,9 @@
           "_styles": {
             "STRONG": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         }
@@ -1676,7 +1686,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#3d8eb9",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1698,7 +1708,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1707,6 +1717,9 @@
           "_styles": {
             "STRONG": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-i"
@@ -1832,7 +1845,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#3d8eb9",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1854,7 +1867,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1863,6 +1876,9 @@
           "_styles": {
             "STRONG": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_anchor": "contacts1-k"
