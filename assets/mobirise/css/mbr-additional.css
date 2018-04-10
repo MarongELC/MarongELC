@@ -236,6 +236,7 @@
   color: #ffffff;
 }
 
+
 #menu-j .mbr-brand__name {
   font-size: 16px;
 }
@@ -247,9 +248,9 @@
 }
 #content5-l .mbr-header .mbr-header__text {
   text-align: center;
-  color: #28324e;
+  color: #2969b0;
   font-family: 'Oxygen', sans-serif;
-  font-size: 32px;
+  font-size: 46px;
 }
 #content5-l .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -257,6 +258,11 @@
 }
 #content5-l .mbr-article {
   color: #fff;
+}
+#content5-l .mbr-article P {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 19px;
+  color: #28324e;
 }
 #contacts1-k STRONG {
   color: #ffffff;

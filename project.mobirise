@@ -1,14 +1,15 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page3.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
         "#7c0503",
-        "#0c0225"
+        "#0c0225",
+        "#4ac1f2"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1757,10 +1758,10 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#28324e",
+              "color": "#2969b0",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "32px"
+              "font-size": "46px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -1768,6 +1769,12 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "19px",
+              "color": "#28324e"
             }
           },
           "_params": {
@@ -1782,7 +1789,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2c82c9",
+            "bgColor": "#4ac1f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
