@@ -242,6 +242,9 @@
 #menu-j.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
+#menu-j .mbr-navbar__section {
+  background: #000000;
+}
 #menu-j .mbr-navbar__hamburger {
   color: #000000;
 }

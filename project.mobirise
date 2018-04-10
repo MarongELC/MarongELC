@@ -49,7 +49,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
@@ -228,7 +228,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
@@ -387,7 +387,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
@@ -512,7 +512,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
@@ -1480,7 +1480,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
@@ -1658,7 +1658,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#000000"
             }
@@ -1669,7 +1671,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
