@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -88,9 +88,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "23",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "imageSize": "34",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
