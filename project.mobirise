@@ -563,7 +563,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<i>Newsletters</i><br><br>",
-          "text": "Each month Marong ELC parent committee members produce a newsletter that is sent to parents and also to advertisers.&nbsp;<br>It is a great way for parents to keep up to date with what is going on at the Kinder, and what is going on behind the scenes as well.&nbsp;",
+          "text": "<b>Each month Marong ELC parent committee members produce a newsletter that is sent to parents and also to advertisers.&nbsp;<br>It is a great way for parents to keep up to date with what is going on at the Kinder, and what is going on behind the scenes as well.&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -585,7 +585,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "I": {
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "72px"
             }
           }
         },
