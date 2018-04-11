@@ -5,6 +5,8 @@
 
 
 
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -36,11 +38,20 @@
   color: #0c0225;
 }
 #contacts1-g STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-g P {
   color: #000000;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
 }
+#contacts1-g B {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+
 
 
 
@@ -76,11 +87,20 @@
   color: #000000;
 }
 #contacts1-g STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-g P {
   color: #000000;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
 }
+#contacts1-g B {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+
 
 
 
@@ -209,11 +229,20 @@
   color: #ffffff;
 }
 #contacts1-g STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-g P {
   color: #000000;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
 }
+#contacts1-g B {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+
 
 
 
@@ -357,11 +386,20 @@
   color: #ffffff;
 }
 #contacts1-g STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-g P {
   color: #000000;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
 }
+#contacts1-g B {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+
 
 #menu-h .mbr-brand__name {
   font-size: 16px;
@@ -376,11 +414,20 @@
   font-family: 'Lora', serif;
 }
 #contacts1-i STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-i P {
   color: #000000;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
 }
+#contacts1-i B {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+
 
 
 
@@ -419,8 +466,15 @@
   color: #000000;
 }
 #contacts1-k STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-k P {
   color: #000000;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+}
+#contacts1-k B {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
 }

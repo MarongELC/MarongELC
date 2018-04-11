@@ -61,8 +61,8 @@
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
-          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "items": "           <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 20px;\"></span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -133,7 +133,7 @@
             }
           },
           "title": "MARONG EARLY LEARNING CENTRE",
-          "text": "<p><i><b>SHAPING LITTLE MINDS</b></i></p><p><i><b>TO PLAY NICE</b></i></p><p><i><b>WORK HARD</b></i></p><p><i><b>AND STAY KIND</b></i></p>",
+          "text": "<p><i><b>SHAPING LITTLE MINDS</b></i></p><p><i><b>TO PLAY NICE</b></i></p><p><i><b>WORK HARD</b></i></p><p><i><b>AND STAY KIND</b></i></p><p><i><b><br></b></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -168,7 +168,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -180,13 +180,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lmpamarongelc-265x151.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "http://www.lmpa.org.au/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -194,8 +195,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br><b>10 Leslie Street<br>Marong, Victoria<br>3515</b>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><b><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br></b><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -204,10 +205,19 @@
           "_anchor": "contacts1-g",
           "_styles": {
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "18px"
             }
           }
         }
@@ -247,8 +257,8 @@
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
-          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "items": "           <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 20px;\"></span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -332,7 +342,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -344,13 +354,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lmpamarongelc-265x151.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "http://www.lmpa.org.au/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -358,8 +369,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br><b>10 Leslie Street<br>Marong, Victoria<br>3515</b>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><b><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br></b><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -368,10 +379,19 @@
           "_anchor": "contacts1-g",
           "_styles": {
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "18px"
             }
           }
         }
@@ -490,8 +510,8 @@
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
-          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "items": "           <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 20px;\"></span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1026,7 +1046,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1038,13 +1058,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lmpamarongelc-265x151.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "http://www.lmpa.org.au/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1052,8 +1073,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br><b>10 Leslie Street<br>Marong, Victoria<br>3515</b>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><b><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br></b><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1062,10 +1083,19 @@
           "_anchor": "contacts1-g",
           "_styles": {
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "18px"
             }
           }
         }
@@ -1086,7 +1116,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "25",
+            "imageSize": "17",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1184,8 +1214,8 @@
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
-          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "items": "           <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 20px;\"></span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1273,7 +1303,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1U6qmwY7k-qFHJ62y4d_ElbzxTwbBusDy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-u"
         },
@@ -1341,7 +1371,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=19_vYgg01hi8PSOOCzlN6jpAuqfbD6Nca\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-19"
         },
@@ -1409,7 +1439,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1HMwf-aAIauAa2Zx9W15QbIvMLY7ZyNG5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1a"
         },
@@ -1477,7 +1507,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1hryDIpTBFWvL7FGjx_ihbeVQ5ph4T_wg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1b"
         },
@@ -1546,7 +1576,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1U2joajqJHqHcWUQ1Ku4gpGDcjdZRobHY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1c"
         },
@@ -1614,7 +1644,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1PcbvgGMeUbPmlYylNuqoR3784TbhmMiM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1d"
         },
@@ -1682,7 +1712,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1Je0LQYYn--6FQaDwAFabvd1apoMUawyZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1e"
         },
@@ -1750,7 +1780,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1rEU0LqbFGWpdkiBCg1mMUMTKSehP9QRt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1f"
         },
@@ -1818,7 +1848,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1KlE48aTLopC6ocakNGxdzjraNasV7u-z\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1i"
         },
@@ -1886,7 +1916,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1FQnlO3wAdB_J7NmmIbewtzEk_Oi3CFwZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1j"
         },
@@ -1954,7 +1984,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=1qE3navb2y5hS4J563HGQPC_UlWQjh4xv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1k"
         },
@@ -2022,14 +2052,14 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/open?id=194dBybjvvkekz6DTcPBZAoLt1DaY9HqW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1l"
         },
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2041,13 +2071,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lmpamarongelc-265x151.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "http://www.lmpa.org.au/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -2055,8 +2086,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br><b>10 Leslie Street<br>Marong, Victoria<br>3515</b>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><b><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br></b><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -2065,10 +2096,19 @@
           "_anchor": "contacts1-g",
           "_styles": {
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "18px"
             }
           }
         }
@@ -2108,8 +2148,8 @@
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
-          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "items": "           <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 20px;\"></span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -2267,7 +2307,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2279,13 +2319,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lmpamarongelc-265x151.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "http://www.lmpa.org.au/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -2293,8 +2334,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br><b>10 Leslie Street<br>Marong, Victoria<br>3515</b>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><b><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br></b><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -2302,10 +2343,19 @@
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-i"
@@ -2346,8 +2396,8 @@
             "color": "#000000",
             "hamburgerColor": "#000000"
           },
-          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "items": "           <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li> ",
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 20px;\"></span></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -2434,7 +2484,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2446,13 +2496,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lmpamarongelc-265x151.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "http://www.lmpa.org.au/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -2460,8 +2511,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
-          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br><b>10 Leslie Street<br>Marong, Victoria<br>3515</b>",
+          "text2": "<strong>CONTACTS</strong><br><b>\nEmail: </b><a href=\"mailto:marong.elc@kindergarten.vic.gov.au\" class=\"text-black\">marong.elc@kindergarten.vic.gov.au</a><br><b>\nPhone</b>:&nbsp;<br><b><a href=\"tel:03 5435 2394\" class=\"text-black\">03 5435 2394</a><br></b><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -2469,10 +2520,19 @@
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "18px"
             }
           },
           "_anchor": "contacts1-k"
