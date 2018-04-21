@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1119,17 +1119,17 @@
             "imageSize": "17",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rolled-up-newspaper-t-1-846x298.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1154,8 +1154,8 @@
               "size": 0
             }
           },
-          "title": "NEWSLETTERS",
-          "text": "<p><b><i>Each month Marong ELC parent committee members produce a newsletter that is sent to parents and also to advertisers.&nbsp;\n</i></b></p><p><b><i>It is a great way for parents to keep up to date with what is going on at the Kinder, and what is going on behind the scenes as well. .</i></b></p>",
+          "title": "",
+          "text": "<p><b><i><br></i></b></p><p><b><i><br></i></b></p><p><b><i><br></i></b></p><p><b><i><br></i></b></p><p><b><i>Each month Marong ELC parent committee members produce a newsletter that is sent to parents and also to advertisers.&nbsp;\n</i></b></p><p><b><i>It is a great way for parents to keep up to date with what is going on at the Kinder, and what is going on behind the scenes as well. .</i></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -1250,17 +1250,17 @@
             "imageSize": "10",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1318,17 +1318,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1386,17 +1386,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1454,17 +1454,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1522,17 +1522,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1591,17 +1591,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1659,17 +1659,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1727,17 +1727,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1795,17 +1795,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1863,17 +1863,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1931,17 +1931,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
@@ -1999,17 +1999,17 @@
             "imageSize": "10",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#fac51c",
             "overlayOpacity": 0.5
           },
           "media": {
