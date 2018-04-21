@@ -401,6 +401,22 @@
 
 
 
+
+#msg-box4-1x .mbr-header__text {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box4-1x .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1x .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1x .mbr-header__text I {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+}
 #menu-h .mbr-brand__name {
   font-size: 16px;
 }
