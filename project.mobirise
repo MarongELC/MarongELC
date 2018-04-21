@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MarongELC",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -94,20 +94,20 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "34",
+            "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ramki-shkola-10-935x653.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#9365b8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#9365b8",
             "overlayOpacity": 0.5
           },
           "media": {
